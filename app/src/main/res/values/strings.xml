@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HackCBS</string>
+    <string name="com_auth0_domain">"dev-vr56dnagffb424d5.us.auth0.com"</string>
+    <string name="com_auth0_client_id">"93PmjyiDaQdtEp7sEAofcKphTf9YXlVY"</string>
+</resources>
